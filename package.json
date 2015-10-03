@@ -1,0 +1,31 @@
+{
+  "name": "babel-lab",
+  "version": "1.0.0",
+  "description": "Babel transform for Lab test utility",
+  "main": "lib/transform.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/eslint lib/transform.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markuplab/babel-lab.git"
+  },
+  "keywords": [
+    "babel",
+    "lab",
+    "transform",
+    "es6"
+  ],
+  "author": "k.kaysarov <defcuts@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markuplab/babel-lab/issues"
+  },
+  "homepage": "https://github.com/markuplab/babel-lab",
+  "dependencies": {
+    "babel-core": "^5.8.25"
+  },
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
+}
