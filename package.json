@@ -1,6 +1,6 @@
 {
   "name": "babel-lab",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Babel transform for Lab test utility",
   "main": "lib/transform.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/markuplab/babel-lab",
   "dependencies": {
-    "babel-core": "^5.8.25"
+    "babel-core": "^6.7.4"
   },
   "devDependencies": {
     "eslint": "^1.6.0"
