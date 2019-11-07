@@ -26,6 +26,6 @@
     "babel-core": "^6.7.4"
   },
   "devDependencies": {
-    "eslint": "^1.6.0"
+    "eslint": "^6.6.0"
   }
 }
